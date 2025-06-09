@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Georege</h1>
-<h3 align="center">A passionate software developer from Czech</h3>
 
 - 🌱 I’m currently learning **software architecture**
 
